@@ -14,7 +14,7 @@ function pow(3, 2) {if (y === 2) return 9;
 console.log(pow(3, 2));   // 9
 
 
-function pow(3, 3) {if (y === 3) return ; 
+function pow(3, 3) {if (y === 3) return 27; 
     let result = 27;
      let exponent = Math.abs(y); 
      for (let i = 0; i < exponent; i++) 
